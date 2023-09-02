@@ -1,0 +1,14 @@
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\bin\Debug\FacturacionAPP.exe.config
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\bin\Debug\FacturacionAPP.exe
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\bin\Debug\FacturacionAPP.pdb
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.csproj.AssemblyReference.cache
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.Form1.resources
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.Properties.Resources.resources
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.csproj.GenerateResource.cache
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.csproj.CoreCompileInputs.cache
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.exe
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.pdb
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.FrmNuevaFactura.resources
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.Formularios.frmConsultaFactura.resources
+C:\Users\leonardoGAMIN\source\repos\FacturacionAPP\obj\Debug\FacturacionAPP.Formularios.frmDetalleFacturas.resources
